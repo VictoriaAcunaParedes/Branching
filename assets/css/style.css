@@ -57,3 +57,11 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+p {
+  text-align: center;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  padding: 5%;
+}
